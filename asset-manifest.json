@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/innovationtech1/taskapp/static/css/main.984a0a6e.css",
-    "main.js": "/innovationtech1/taskapp/static/js/main.3782f28f.js",
-    "index.html": "/innovationtech1/taskapp/index.html",
-    "main.984a0a6e.css.map": "/innovationtech1/taskapp/static/css/main.984a0a6e.css.map",
-    "main.3782f28f.js.map": "/innovationtech1/taskapp/static/js/main.3782f28f.js.map"
+    "main.css": "/taskapp/static/css/main.984a0a6e.css",
+    "main.js": "/taskapp/static/js/main.3782f28f.js",
+    "index.html": "/taskapp/index.html",
+    "main.984a0a6e.css.map": "/taskapp/static/css/main.984a0a6e.css.map",
+    "main.3782f28f.js.map": "/taskapp/static/js/main.3782f28f.js.map"
   },
   "entrypoints": [
     "static/css/main.984a0a6e.css",
